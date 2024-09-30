@@ -1,0 +1,17 @@
+Outlook
+Sunny = 2
+Rainy = 1
+Overcast = 0
+
+Temp
+Mild = 2
+Hot = 1
+Cool = 0
+
+hum
+normal = 1
+high = 0
+
+Windy
+Weak = 1
+Strong = 0
